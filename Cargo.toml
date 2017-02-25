@@ -1,0 +1,7 @@
+[package]
+name = "betta-commandline-tool"
+version = "0.1.0"
+authors = ["Cristiano Betta"]
+
+[dependencies]
+clap = "2.20.5"
